@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d3280ca093dbde33b1ca046575ed942b",
+    "revision": "e03a642789704b2b6b2c69450c03fb81",
     "url": "/juha-spring-boot-react-fe-ch14/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/juha-spring-boot-react-fe-ch14/static/css/2.2e7cf2a9.chunk.css"
   },
   {
-    "revision": "a66b79065c5bd1d2fca0",
+    "revision": "383e201ccf09625fcbe4",
     "url": "/juha-spring-boot-react-fe-ch14/static/css/main.692d75bb.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/juha-spring-boot-react-fe-ch14/static/js/2.a576f6df.chunk.js"
   },
   {
-    "revision": "a66b79065c5bd1d2fca0",
-    "url": "/juha-spring-boot-react-fe-ch14/static/js/main.53bd54a5.chunk.js"
+    "revision": "383e201ccf09625fcbe4",
+    "url": "/juha-spring-boot-react-fe-ch14/static/js/main.efe371e2.chunk.js"
   },
   {
     "revision": "db23ad1cabc7c8d2a4fa",
