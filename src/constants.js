@@ -1,1 +1,1 @@
-export const SERVER_URL = 'http://localhost:8080/'
+export const SERVER_URL = 'https://juha-spring-boot-react-be-ch05.herokuapp.com/'
